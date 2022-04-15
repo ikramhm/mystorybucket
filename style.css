@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #777
+}
+.website-title {
+    text-align: center;
+    margin: 0.5em;
+    font-size: 2.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.website-subheading {
+    text-align: center;
+    margin: 0.5em;
+    font-size: 1.25em;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.content-section {
+    margin: 1em
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+    
+}
+.ikramimage {
+    float: left;
+    height: 330px;
+    width: 330px;
+    margin: 15px;
+    border-radius: 50%;
+}
+.disclaimer {
+    font-style: italic;
+}
+.disclaimer-centre {
+    font-style: italic;
+    text-align: center;
+}
