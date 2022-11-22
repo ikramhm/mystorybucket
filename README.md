@@ -19,7 +19,7 @@ Now, I learnt HTML and CSS in Year 10, as a school project for ICT. We created a
 The aim of this website was to describe "My Story", How I gave-up two highly saught-after vacation schemes at Silver cirle Law firms in search for a career in the clouds.
 
 2. To be continued
-3. To be continued
+3. In my effort to update this, I have been working on a terraform project to manually deploy the infrastructure required for this implementation. Some of the working code can be found in my terraform repo.
 
 
 
