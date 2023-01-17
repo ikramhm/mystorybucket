@@ -20,7 +20,7 @@ The aim of this website was to describe "My Story", How I gave-up two highly sau
 
 2. The website is no longer live (unfortunate story there). This is what the website looked like when it was live. 
 
-![mystorybucket](https://user-images.githubusercontent.com/98710900/212921864-22cfc168-f51d-49ba-bc59-18c5e54796ec.png)
+![mystorybucket](https://user-images.githubusercontent.com/98710900/212924159-18ac6b7a-7eee-4042-928b-6612fd0bda5c.png)
 
 If, for some reason, you want to read my content, you can look at my source code!
 
