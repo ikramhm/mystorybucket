@@ -18,7 +18,13 @@ Now, I learnt HTML and CSS in Year 10, as a school project for ICT. We created a
 
 The aim of this website was to describe "My Story", How I gave-up two highly saught-after vacation schemes at Silver cirle Law firms in search for a career in the clouds.
 
-2. To be continued
+2. The website is no longer live (unfortunate story there). This is what the website looked like when it was live. 
+
+![mystorybucket](https://user-images.githubusercontent.com/98710900/212921864-22cfc168-f51d-49ba-bc59-18c5e54796ec.png)
+
+If, for some reason, you want to read my content, you can look at my source code!
+
+
 3. In my effort to update this, I have been working on a terraform project to manually deploy the infrastructure required for this implementation. Some of the working code can be found in my terraform repo.
 
 
